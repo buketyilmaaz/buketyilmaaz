@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, I'm Buket 👋
+Computer Engineering student
+C | Java | Algorithms
 
 <!--
 **buketyilmaaz/buketyilmaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

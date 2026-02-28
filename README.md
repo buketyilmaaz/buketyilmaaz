@@ -1,7 +1,20 @@
-Hi, I'm Buket 👋
-Computer Engineering student
-C | Java | Algorithms
+# Hi, I'm Buket 👋
 
+🎓 Computer Engineering Student  
+
+💻 Languages:
+- C
+- Java
+
+📚 Interests:
+- Algorithms
+- Data Structures
+
+🚀 Projects:
+- Matrix Multiplication
+- Fibonacci Series
+- Prime Number Checker
+- Bubble Sort Algorithm
 <!--
 **buketyilmaaz/buketyilmaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
